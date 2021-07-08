@@ -1,33 +1,38 @@
-![Olauncher](https://repository-images.githubusercontent.com/278638069/db0acb80-661b-11eb-803e-926cae5dccb4)
+| Homescreen                           | Settings                             |
+|:------------------------------------:|:------------------------------------:|
+| ![](https://i.imgur.com/5QPUz8X.jpg) | ![](https://i.imgur.com/50Eyql7.jpg) |
 
 
-# Olauncher | Minimal AF
-Olauncher is a minimal launcher app for Android. AF stands for Ad-Free. It can also update your wallpaper daily, if you want.
+# IBMlauncher
 
-## Installation
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/packages/app.olauncher)
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-    alt="Get it on F-Droid"
-    height="80">](https://play.google.com/store/apps/details?id=app.olauncher)
+IBMlauncher is a fork of **[Olauncher app for Android](https://github.com/tanujnotes/Olauncher)** with **[IBM Plex fonts](https://github.com/IBM/plex/)** and some redesign.
 
-Download from [F-Droid](https://f-droid.org/packages/app.olauncher) or [Play Store](https://play.google.com/store/apps/details?id=app.olauncher). You can also clone the master branch and build the app yourself in Android Studio. No extra steps required. Or download the APK from [latest release](https://github.com/tanujnotes/Olauncher/releases/).
+Original Author is [@tanujnotes](https://github.com/tanujnotes).
+
 
 ## What's next
-Text size and color changes.
 
-**Done**
++ Changin menus design a bit
++ Releases
++ F-Droid
+
+
+## Done
 
 :heavy_check_mark: Hide apps  
 :heavy_check_mark: Work apps support  
 :heavy_check_mark: Rename apps on the home screen
 
+
 ## Contact
-Tanuj M. ([@tanujnotes](https://twitter.com/tanujnotes))
+
+v <llathasa@outlook.com>
+
 
 ## License
-[GNU GPLv3 ](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+App: [GNU GPLv3 ](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Fonts: [SIL OFL 1.1](https://github.com/IBM/plex/blob/master/LICENSE.txt)
 
 
-Thank you.
+**https://github.com/tanujnotes/Olauncher**
