@@ -19,9 +19,7 @@ Original Author is [@tanujnotes](https://github.com/tanujnotes).
 
 ## Done
 
-:heavy_check_mark: Hide apps  
-:heavy_check_mark: Work apps support  
-:heavy_check_mark: Rename apps on the home screen
+:heavy_check_mark: Fonts
 
 
 ## Contact
