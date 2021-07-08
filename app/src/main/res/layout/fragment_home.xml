@@ -31,7 +31,7 @@
             style="@style/TextDefault"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-light"
+            android:fontFamily="@font/ibm_plex_mono_light"
             android:format12Hour="hh:mm"
             android:textSize="@dimen/time_size" />
 
@@ -40,7 +40,7 @@
             style="@style/TextDefault"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-medium"
+            android:fontFamily="@font/ibm_plex_mono_regular"
             android:format12Hour="EEE, dd MMM"
             android:format24Hour="EEE, dd MMM"
             android:letterSpacing="0.02"
@@ -158,13 +158,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="4dp"
-            android:text="@string/swipe_up_for_apps" />
+            android:text="@string/swipe_up_for_apps"
+            android:fontFamily="@font/ibm_plex_mono_regular" />
 
         <TextView
             style="@style/TextSmall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/long_press_for_settings" />
+            android:text="@string/long_press_for_settings"
+            android:fontFamily="@font/ibm_plex_mono_regular" />
 
     </LinearLayout>
 

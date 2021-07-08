@@ -25,7 +25,7 @@
             app:closeIcon="@null"
             app:iconifiedByDefault="false"
             app:queryBackground="@null"
-            app:queryHint="__"
+            app:queryHint=":"
             app:searchIcon="@null"
             app:theme="@style/AppSearchText" />
 
@@ -38,6 +38,7 @@
             android:layout_marginEnd="24dp"
             android:paddingVertical="@dimen/app_padding_vertical"
             android:text="@string/rename"
+            android:fontFamily="@font/ibm_plex_mono_light"
             android:textAllCaps="true"
             android:visibility="gone" />
 
@@ -53,6 +54,7 @@
         android:ellipsize="end"
         android:maxLines="1"
         android:text="@string/app_drawer_tips"
+        android:fontFamily="@font/ibm_plex_mono_light"
         android:textColor="?attr/primaryColor"
         android:textSize="16sp"
         android:visibility="gone" />

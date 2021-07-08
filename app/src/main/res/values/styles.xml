@@ -71,7 +71,7 @@
         <item name="android:textColor">?attr/primaryColor</item>
         <item name="android:editTextColor">?attr/primaryColor</item>
         <item name="android:textColorHint">?attr/primaryColor</item>
-        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">@font/ibm_plex_mono_light</item>
         <item name="android:inputType">textNoSuggestions</item>
         <item name="android:cursorVisible">false</item>
     </style>
@@ -86,24 +86,28 @@
     </style>
 
     <style name="TextLarge" parent="TextDefault">
-        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">@font/ibm_plex_mono_regular</item>
         <item name="android:textSize">@dimen/text_large</item>
     </style>
 
     <style name="TextMedium" parent="TextDefault">
         <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/ibm_plex_serif_regular</item>
     </style>
 
     <style name="TextSmall" parent="TextDefault">
         <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/ibm_plex_mono_regular</item>
     </style>
 
     <style name="TextSmallBold" parent="TextSmall">
         <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/ibm_plex_serif_bold</item>
     </style>
 
     <style name="TextSmallLight" parent="TextSmall">
         <item name="android:textColor">@drawable/text_colors_light</item>
+        <item name="fontFamily">@font/ibm_plex_serif_light</item>
     </style>
 
 </resources>
