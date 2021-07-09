@@ -1,4 +1,4 @@
-| Homescreen                           | Settings                             |
+|                                      |                                      |
 |:------------------------------------:|:------------------------------------:|
 | ![](https://i.imgur.com/5QPUz8X.jpg) | ![](https://i.imgur.com/50Eyql7.jpg) |
 
